@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolioks/static/css/main.09a10187.css",
+    "main.js": "/portfolioks/static/js/main.dd0560b6.js",
+    "static/media/Resume(KavinSubash).pdf": "/portfolioks/static/media/Resume(KavinSubash).6e178d452429bbfebf54.pdf",
+    "static/media/java.png": "/portfolioks/static/media/java.887dce16f1a48174a036.png",
+    "static/media/python.png": "/portfolioks/static/media/python.19c29c21e2a4810a5727.png",
+    "static/media/H1.png": "/portfolioks/static/media/H1.9654376e69034393b534.png",
+    "static/media/ks2.png": "/portfolioks/static/media/ks2.0668d6f9646d06923b26.png",
+    "static/media/react.png": "/portfolioks/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/U1.png": "/portfolioks/static/media/U1.978455a82c4d9103f6e4.png",
+    "static/media/mongo.png": "/portfolioks/static/media/mongo.2a1528ddc31d4ce8518d.png",
+    "static/media/cred.png": "/portfolioks/static/media/cred.093493c3c9e86665e4d6.png",
+    "static/media/mysql.png": "/portfolioks/static/media/mysql.fc70beba8dd84ce6e77b.png",
+    "static/media/leet1.png": "/portfolioks/static/media/leet1.2b1749f551be612935a0.png",
+    "static/media/html.png": "/portfolioks/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolioks/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/javascript.png": "/portfolioks/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolioks/index.html",
+    "main.09a10187.css.map": "/portfolioks/static/css/main.09a10187.css.map",
+    "main.dd0560b6.js.map": "/portfolioks/static/js/main.dd0560b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09a10187.css",
+    "static/js/main.dd0560b6.js"
+  ]
+}
