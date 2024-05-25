@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import React,{useState, useEffect} from 'react';
 import Logo from '../assets/ks2.png';
 import {FaBars, FaTimes, FaLinkedin,FaGithub} from 'react-icons/fa';
 import { HiOutlineMail } from 'react-icons/hi';
@@ -8,6 +8,18 @@ import resumePDF from '../assets/Resume(KavinSubash).pdf';
 
 const Navbar = () => {
     const [nav,setNav]=useState(false);
+    const [isMinimized, setIsMinimized] = useState(false);
+
+  useEffect(() => {
+    const handleResize = () => {
+      const width = window.innerWidth;
+      setIsMinimized(width <= 768); // You can adjust the threshold for mobile screen size
+    };
+
+    window.addEventListener('resize', handleResize);
+
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
     const handleClick=()=>setNav(!nav);
     return (
         <div className='fixed w-full h-[80px] flex justify-between items-center px-4 bg-[#090918] text-gray-300'>
