@@ -18,7 +18,7 @@ const Certification = () => {
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href='https://www.hackerrank.com/profile/kavinramasamy201'><img className="w-20 mx-auto" src={Hanker} alr="html"/>
-                <p className='my-4'>HankerRank</p></a>
+                <p className='my-4'>HackerRank</p></a>
             </div>
             <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                 <a href='https://www.credly.com/users/kavinsubash-k-r/badges'><img className="w-20 mx-auto" src={Cred} alr="html"/>
